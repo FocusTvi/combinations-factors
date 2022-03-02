@@ -1,0 +1,7 @@
+D:\Google Club\Factors\Factors\bin\Debug\Factors.exe.config
+D:\Google Club\Factors\Factors\bin\Debug\Factors.exe
+D:\Google Club\Factors\Factors\bin\Debug\Factors.pdb
+D:\Google Club\Factors\Factors\obj\Debug\Factors.csproj.AssemblyReference.cache
+D:\Google Club\Factors\Factors\obj\Debug\Factors.csproj.CoreCompileInputs.cache
+D:\Google Club\Factors\Factors\obj\Debug\Factors.exe
+D:\Google Club\Factors\Factors\obj\Debug\Factors.pdb
